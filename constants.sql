@@ -1,0 +1,1 @@
+SELECT model, 'smartphooes' AS 'type'  FROM company.`smart phones`;

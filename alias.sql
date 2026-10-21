@@ -1,0 +1,1 @@
+SELECT os AS 'operating system', model, battery_capacity AS mah  FROM company.`smart phones`;

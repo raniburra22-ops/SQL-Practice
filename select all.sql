@@ -1,0 +1,1 @@
+SELECT * FROM company.`smart phones`WHERE 1

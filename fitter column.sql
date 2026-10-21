@@ -1,0 +1,1 @@
+SELECT model, price, rating FROM company.`smart phones`
