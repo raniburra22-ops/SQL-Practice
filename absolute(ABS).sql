@@ -1,0 +1,1 @@
+SELECT ABS(price - 100000) AS 'tem' FROM company.`smart phones`;
